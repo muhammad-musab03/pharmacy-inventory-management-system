@@ -1,0 +1,7 @@
+101 Panadol_500mg GSK_Pakistan Karachi 15 3 2027 180 2.50
+102 Augmentin_625mg GSK_Pakistan Karachi 30 11 2026 30 38.00
+103 Brufen_400mg Abbott Lahore 10 8 2026 120 4.75
+106 Ventolin_Inhaler GSK_Pakistan Karachi 20 6 2027 1 450.00
+107 Arinac_Forte Abbott Lahore 1 12 2026 80 9.50
+108 Calpol_Syrup GSK_Pakistan Karachi 9 10 2026 24 145.00
+110 Disprin_300mg Reckitt Karachi 29 2 2028 150 1.80

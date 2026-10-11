@@ -1,0 +1,3 @@
+Record 4 (ID 104) rejected: invalid expiry date 31-02-2027.
+Record 5 (ID 105) rejected: negative quantity -15.
+Record 8 (ID 102) rejected: duplicate ID.

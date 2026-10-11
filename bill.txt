@@ -1,0 +1,33 @@
+Prescription #5001
+101 Panadol_500mg 20 x 2.50 = 50.00
+107 Arinac_Forte 10 x 9.50 = 95.00
+Subtotal: 145.00 Discount: 0.00 Total: 145.00
+
+Prescription #5002
+103 Brufen_400mg REJECTED: expired on 10-08-2026
+106 Ventolin_Inhaler 2 x 450.00 = 900.00
+Subtotal: 900.00 Discount: 0.00 Total: 900.00
+
+Prescription #5003
+109 REJECTED: medicine not found
+102 Augmentin_625mg REJECTED: insufficient stock (available 40, requested 50)
+No items billed
+
+Prescription #5004
+104 REJECTED: medicine not found
+108 Calpol_Syrup 1 x 145.00 = 145.00
+Subtotal: 145.00 Discount: 0.00 Total: 145.00
+
+Prescription #5005
+106 Ventolin_Inhaler 5 x 450.00 = 2250.00
+101 Panadol_500mg REJECTED: insufficient stock (available 180, requested 200)
+Subtotal: 2250.00 Discount: 225.00 Total: 2025.00
+
+Prescription #5006
+106 Ventolin_Inhaler REJECTED: insufficient stock (available 1, requested 2)
+102 Augmentin_625mg 10 x 38.00 = 380.00
+Subtotal: 380.00 Discount: 0.00 Total: 380.00
+
+Grand total: 3595.00
+Accepted lines: 6
+Rejected lines: 6
